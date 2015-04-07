@@ -19,7 +19,7 @@
     "lodash": "~2.4.1",
     "async": "~0.9.0",
     "waterline-errors": "~0.10.0",
-    "waterline-sequel": "git+https://github.com/wayne-o/sails-postgresql",
+    "waterline-sequel": "git+https://github.com/balderdashy/waterline-sequel.git",
     "waterline-cursor": "~0.0.5"
   },
   "devDependencies": {
